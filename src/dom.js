@@ -137,6 +137,6 @@ window.dom = {
                 break
             }
         }
-        return i+1
+        return i
     },
 } ;
